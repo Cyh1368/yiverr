@@ -10,6 +10,14 @@ A marketplace for Yale students. People post services, requests, and things from
 
 Seeded listings use photos from Unsplash. New uploads are saved in `public/uploads`.
 
+## Demo
+
+[yiverr-pitch.mov](photos/yiverr-pitch.mov)
+
+## Grok usage
+
+![Grok usage](photos/grokusage.png)
+
 ## Run
 
 ```bash
