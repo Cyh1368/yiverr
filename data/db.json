@@ -1,0 +1,1003 @@
+{
+  "users": [
+    {
+      "id": "u_chengyou",
+      "name": "Cheng-You Ho",
+      "email": "chengyou.ho@yale.edu",
+      "college": "Benjamin Franklin College",
+      "class_year": 2030,
+      "venmo_handle": "chengyouho"
+    },
+    {
+      "id": "u_carter",
+      "name": "Carter Lagasse",
+      "email": "carter.lagasse@yale.edu",
+      "college": "Branford College",
+      "class_year": 2027,
+      "venmo_handle": "carterlagasse"
+    },
+    {
+      "id": "u_carlos",
+      "name": "Carlos Cedano",
+      "email": "carlos.cedano@yale.edu",
+      "college": "Ezra Stiles College",
+      "class_year": 2029,
+      "venmo_handle": "carloscedano"
+    }
+  ],
+  "posts": [
+    {
+      "id": "p_headshots",
+      "user_id": "u_chengyou",
+      "kind": "service",
+      "title": "Cross Campus headshots",
+      "description": "Graduation photos and Cross Campus headshots with my camera. About twenty minutes, a few edited frames. Benjamin Franklin, evenings.",
+      "category": "Photography",
+      "price": 40,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-15T22:47:02.308Z"
+    },
+    {
+      "id": "p_formal_photo",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Saturday formal photos",
+      "description": "Two hours of formal coverage. Group shots on the courtyard and a few candids inside. I bring a second lens.",
+      "category": "Photography",
+      "price": 70,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T20:47:02.308Z"
+    },
+    {
+      "id": "p_event_photo",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Club event photos",
+      "description": "Photos for a club meeting, concert, or courtyard table. You get a shared folder the next day.",
+      "category": "Photography",
+      "price": 55,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-11T23:47:02.308Z"
+    },
+    {
+      "id": "p_logo",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Logo for your club",
+      "description": "A simple logo for a club or intramural. Two directions, one revision, files you can post.",
+      "category": "Design & Creative",
+      "price": 40,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-14T21:47:02.308Z"
+    },
+    {
+      "id": "p_poster",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Event poster design",
+      "description": "One poster and a square crop for a story. Send the date, place, and the words you want on it.",
+      "category": "Design & Creative",
+      "price": 25,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T00:47:02.308Z"
+    },
+    {
+      "id": "p_brand",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Brand kit for a student group",
+      "description": "Colors, a mark, and a one-page guide so the next board is not starting from a blank slide.",
+      "category": "Design & Creative",
+      "price": 35,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-09T21:47:02.308Z"
+    },
+    {
+      "id": "p_fades",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Fades in Branford",
+      "description": "Fades and lineups in the Branford common room. Bring a reference photo. $15, about half an hour.",
+      "category": "Hair & Beauty",
+      "price": 15,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-16T23:47:02.308Z"
+    },
+    {
+      "id": "p_lineup",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Lineups before a formal",
+      "description": "A clean lineup and a quick shape-up. Ezra Stiles, late afternoon, $12.",
+      "category": "Hair & Beauty",
+      "price": 12,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-15T22:47:02.308Z"
+    },
+    {
+      "id": "p_trim",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Dorm-room trim",
+      "description": "A simple trim if your haircut has gone soft. I bring clippers and a cape. Branford.",
+      "category": "Hair & Beauty",
+      "price": 18,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-10T22:47:02.308Z"
+    },
+    {
+      "id": "p_moving",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Help moving a couch",
+      "description": "Two hands for a couch, a dresser, or a car load. $20 an hour. Branford and the colleges next door.",
+      "category": "Moving & Labor",
+      "price": 20,
+      "price_unit": "hourly",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1600518464441-9154a4dea21b?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "closed",
+      "created_at": "2026-11-08T20:47:02.308Z"
+    },
+    {
+      "id": "p_assemble",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "IKEA assembly",
+      "description": "I will build the bed, the desk, or the shelf the instructions gave up on. Tools included. Ezra Stiles.",
+      "category": "Moving & Labor",
+      "price": 30,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-14T21:47:02.308Z"
+    },
+    {
+      "id": "p_haul",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Furniture hauling",
+      "description": "I have a car and can move a chair, a shelf, or a fridge between colleges. $18 an hour.",
+      "category": "Moving & Labor",
+      "price": 18,
+      "price_unit": "hourly",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-11T23:47:02.308Z"
+    },
+    {
+      "id": "p_loadin",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Move-in loading help",
+      "description": "An extra pair of hands for bins, a rug, and the lamp that does not fit the stairwell. $22 an hour.",
+      "category": "Moving & Labor",
+      "price": 22,
+      "price_unit": "hourly",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T20:47:02.308Z"
+    },
+    {
+      "id": "p_laptop",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Laptop cleanup and setup",
+      "description": "I fix slow laptops: cleanup, startup junk, and a fresh setup. I can usually do it this week. About an hour in your room.",
+      "category": "Tech Help & Repair",
+      "price": 25,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-15T22:47:02.308Z"
+    },
+    {
+      "id": "p_phone",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Phone backup",
+      "description": "I will back up your phone, clear the storage warning, and leave the home screen usable. Branford.",
+      "category": "Tech Help & Repair",
+      "price": 20,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T00:47:02.308Z"
+    },
+    {
+      "id": "p_printer",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Printer on the wifi",
+      "description": "I will get a stubborn printer onto the wifi and print a test page. Ezra Stiles or I come to you.",
+      "category": "Tech Help & Repair",
+      "price": 15,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-09T21:47:02.308Z"
+    },
+    {
+      "id": "p_acoustic",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Acoustic set for a suite",
+      "description": "Forty-five minutes of acoustic covers for a suite party. I bring a guitar. Weekends go first.",
+      "category": "Music & Performance",
+      "price": 60,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-11T23:47:02.308Z"
+    },
+    {
+      "id": "p_dj",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Dorm room DJ set",
+      "description": "A two-hour set on a small controller. Tell me the vibe. I keep it neighbor-friendly.",
+      "category": "Music & Performance",
+      "price": 50,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T20:47:02.308Z"
+    },
+    {
+      "id": "p_playlist",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Playlist for your formal",
+      "description": "A three-hour playlist built for a college formal. You get the link and a backup order if the wifi drops.",
+      "category": "Music & Performance",
+      "price": 30,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-10T22:47:02.308Z"
+    },
+    {
+      "id": "p_snacks",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Snack run to your college",
+      "description": "I will pick up snacks and drop them at your entryway. $8 plus whatever you ordered.",
+      "category": "Errands & Delivery",
+      "price": 8,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-16T23:47:02.308Z"
+    },
+    {
+      "id": "p_bike_errand",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Bike errand across campus",
+      "description": "I will bike a folder, a key, or a small bag from one college to another. $10.",
+      "category": "Errands & Delivery",
+      "price": 10,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1475666675596-cca2035b3d79?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-14T21:47:02.308Z"
+    },
+    {
+      "id": "p_tote_run",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Grocery tote run",
+      "description": "A tote of groceries from a campus stop to your room. $10, plus the receipt.",
+      "category": "Errands & Delivery",
+      "price": 10,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T00:47:02.308Z"
+    },
+    {
+      "id": "p_bike_tune",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Bike tune-up",
+      "description": "Brakes, a soft tire, and a chain that squeaks. I can usually finish it outside Branford.",
+      "category": "Other Services",
+      "price": 20,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T20:47:02.309Z"
+    },
+    {
+      "id": "p_plants",
+      "user_id": "u_carlos",
+      "kind": "service",
+      "title": "Plant sitting over break",
+      "description": "I will water the plants in your room over a long weekend. Send a photo of each pot.",
+      "category": "Other Services",
+      "price": 15,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-08T20:47:02.309Z"
+    },
+    {
+      "id": "p_suit",
+      "user_id": "u_carter",
+      "kind": "service",
+      "title": "Suit steaming before formal",
+      "description": "I steam a suit or a dress the afternoon of a formal. Branford, you pick it up in an hour.",
+      "category": "Other Services",
+      "price": 12,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-15T22:47:02.309Z"
+    },
+    {
+      "id": "p_chair",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Desk chair",
+      "description": "Sturdy desk chair from a dorm single. Fine for long nights. A scuff on one leg. Ezra Stiles pickup.",
+      "category": "Furniture",
+      "price": 20,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T00:47:02.309Z"
+    },
+    {
+      "id": "p_shelf",
+      "user_id": "u_carter",
+      "kind": "item",
+      "title": "Folding bookshelf",
+      "description": "Three-shelf bookcase from a single. It held books and a plant. Branford, ground floor.",
+      "category": "Furniture",
+      "price": 22,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-11T23:47:02.309Z"
+    },
+    {
+      "id": "p_table",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Bedside table",
+      "description": "Small white table that sat next to a dorm bed. One drawer. Ezra Stiles pickup.",
+      "category": "Furniture",
+      "price": 18,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-09T21:47:02.309Z"
+    },
+    {
+      "id": "p_fridge",
+      "user_id": "u_chengyou",
+      "kind": "item",
+      "title": "Fridge from my single",
+      "description": "Fridge from a dorm single. Clean inside, quiet, and it still gets cold. Benjamin Franklin pickup. Useful if you are furnishing a room.",
+      "category": "Appliances",
+      "price": 50,
+      "price_unit": "fixed",
+      "condition": "like new",
+      "images": [
+        "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-14T21:47:02.309Z"
+    },
+    {
+      "id": "p_micro",
+      "user_id": "u_carter",
+      "kind": "item",
+      "title": "Microwave",
+      "description": "Countertop microwave. The plate turns, the buttons work. Branford pickup, it is heavier than it looks.",
+      "category": "Appliances",
+      "price": 25,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-10T22:47:02.309Z"
+    },
+    {
+      "id": "p_toaster",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Toaster oven",
+      "description": "Toaster oven, crumb tray included. Used for a year of late dinners. Ezra Stiles pickup.",
+      "category": "Appliances",
+      "price": 20,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T20:47:02.309Z"
+    },
+    {
+      "id": "p_reader",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "E-reader",
+      "description": "E-reader with a case. Battery still lasts a week of reading. Ezra Stiles pickup.",
+      "category": "Electronics",
+      "price": 40,
+      "price_unit": "fixed",
+      "condition": "like new",
+      "images": [
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-11T23:47:02.309Z"
+    },
+    {
+      "id": "p_speaker",
+      "user_id": "u_carter",
+      "kind": "item",
+      "title": "Bluetooth speaker",
+      "description": "Small Bluetooth speaker, loud enough for a common room. Battery holds a charge. Branford pickup.",
+      "category": "Electronics",
+      "price": 18,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T00:47:02.309Z"
+    },
+    {
+      "id": "p_monitor",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Desktop monitor",
+      "description": "Monitor and keyboard. No computer included. The screen is bright and the stand is solid. Ezra Stiles.",
+      "category": "Electronics",
+      "price": 45,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-08T20:47:02.309Z"
+    },
+    {
+      "id": "p_coat",
+      "user_id": "u_carter",
+      "kind": "item",
+      "title": "Wool coat",
+      "description": "Camel wool coat, worn one New Haven winter. Zip and buttons work. Branford pickup.",
+      "category": "Clothing",
+      "price": 28,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-09T21:47:02.309Z"
+    },
+    {
+      "id": "p_sweater",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Sweaters, size M",
+      "description": "Two sweaters, size M, washed and ready. One navy, one grey. Ezra Stiles pickup.",
+      "category": "Clothing",
+      "price": 16,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T20:47:02.309Z"
+    },
+    {
+      "id": "p_jacket",
+      "user_id": "u_carter",
+      "kind": "item",
+      "title": "Rain jacket",
+      "description": "Dark rain jacket, size M. Kept the wind off during a wet week. Branford pickup.",
+      "category": "Clothing",
+      "price": 22,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-08T00:47:02.309Z"
+    },
+    {
+      "id": "p_floorlamp",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Floor lamp",
+      "description": "Tall floor lamp that lights a small single. The shade is clean. Ezra Stiles, ground floor.",
+      "category": "Decor",
+      "price": 15,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-14T21:47:02.309Z"
+    },
+    {
+      "id": "p_rug",
+      "user_id": "u_carter",
+      "kind": "item",
+      "title": "Area rug 5x7",
+      "description": "Soft 5x7 rug, neutral pattern. It covered the floor of a single and rolls up. Branford pickup.",
+      "category": "Decor",
+      "price": 30,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1600166898405-da9535204843?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-11T23:47:02.309Z"
+    },
+    {
+      "id": "p_prints",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Wall prints for a single",
+      "description": "A stack of prints that covered a dorm wall. No frames, no pin holes through the faces. Ezra Stiles.",
+      "category": "Decor",
+      "price": 12,
+      "price_unit": "fixed",
+      "condition": "like new",
+      "images": [
+        "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-10T22:47:02.309Z"
+    },
+    {
+      "id": "p_paperbacks",
+      "user_id": "u_carter",
+      "kind": "item",
+      "title": "Paperback stack",
+      "description": "Six paperbacks from a shelf I am clearing. Spines are intact. Branford pickup.",
+      "category": "Books",
+      "price": 10,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T00:47:02.309Z"
+    },
+    {
+      "id": "p_novels",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Novel set",
+      "description": "Four novels, read once. Good for a windowsill. Ezra Stiles pickup.",
+      "category": "Books",
+      "price": 8,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-13T20:47:02.309Z"
+    },
+    {
+      "id": "p_hardcover",
+      "user_id": "u_carter",
+      "kind": "item",
+      "title": "Hardcover novel",
+      "description": "One hardcover, dust jacket still on. Branford pickup.",
+      "category": "Books",
+      "price": 6,
+      "price_unit": "fixed",
+      "condition": "like new",
+      "images": [
+        "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-06T23:47:02.309Z"
+    },
+    {
+      "id": "p_basket",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Laundry basket",
+      "description": "Plastic laundry basket. It has done a lot of trips downstairs and still holds. Ezra Stiles.",
+      "category": "Other Items",
+      "price": 6,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-11T23:47:02.309Z"
+    },
+    {
+      "id": "p_mug",
+      "user_id": "u_carter",
+      "kind": "item",
+      "title": "White mug",
+      "description": "Plain white mug. No chips. Branford pickup.",
+      "category": "Other Items",
+      "price": 4,
+      "price_unit": "fixed",
+      "condition": "like new",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-15T22:47:02.309Z"
+    },
+    {
+      "id": "p_warehouse",
+      "user_id": "u_carlos",
+      "kind": "item",
+      "title": "Storage bins, set of three",
+      "description": "Three clear bins that held sweaters under a bed. Lids included. Ezra Stiles pickup.",
+      "category": "Other Items",
+      "price": 10,
+      "price_unit": "fixed",
+      "condition": "good",
+      "images": [
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-09T21:47:02.309Z"
+    },
+    {
+      "id": "p_req_formal",
+      "user_id": "u_carlos",
+      "kind": "request",
+      "title": "Need a photographer for our formal",
+      "description": "Ezra Stiles formal needs someone with a camera for about two hours on a Saturday night. Budget $100.",
+      "category": "Photography",
+      "price": 100,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-16T23:47:02.309Z"
+    },
+    {
+      "id": "p_req_bed",
+      "user_id": "u_carter",
+      "kind": "request",
+      "title": "Someone to assemble my IKEA bed",
+      "description": "The box is in my Branford room. Budget $25 if you can build it this weekend.",
+      "category": "Moving & Labor",
+      "price": 25,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-15T22:47:02.309Z"
+    },
+    {
+      "id": "p_req_logo",
+      "user_id": "u_carlos",
+      "kind": "request",
+      "title": "Club needs a logo this week",
+      "description": "A student group needs a simple logo before Friday. We have a name. Budget $45.",
+      "category": "Design & Creative",
+      "price": 45,
+      "price_unit": "fixed",
+      "condition": null,
+      "images": [
+        "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "status": "active",
+      "created_at": "2026-11-16T23:47:02.309Z"
+    }
+  ],
+  "deals": [
+    {
+      "id": "d_carter_heads",
+      "post_id": "p_headshots",
+      "from_user_id": "u_carter",
+      "to_user_id": "u_chengyou",
+      "amount": 40,
+      "message": "Thursday after 4 on Cross Campus?",
+      "status": "pending",
+      "created_at": "2026-11-17T19:47:02.309Z"
+    },
+    {
+      "id": "d_carlos_fridge",
+      "post_id": "p_fridge",
+      "from_user_id": "u_carlos",
+      "to_user_id": "u_chengyou",
+      "amount": 45,
+      "message": "I can pick it up Saturday.",
+      "status": "pending",
+      "created_at": "2026-11-17T18:47:02.309Z"
+    },
+    {
+      "id": "d_carter_fridge",
+      "post_id": "p_fridge",
+      "from_user_id": "u_carter",
+      "to_user_id": "u_chengyou",
+      "amount": 40,
+      "message": "Would you take $40 if I grab it tonight?",
+      "status": "pending",
+      "created_at": "2026-11-16T22:47:02.309Z"
+    },
+    {
+      "id": "d_cy_fade",
+      "post_id": "p_fades",
+      "from_user_id": "u_chengyou",
+      "to_user_id": "u_carter",
+      "amount": 15,
+      "message": "Can you do a fade Sunday?",
+      "status": "pending",
+      "created_at": "2026-11-17T16:47:02.309Z"
+    },
+    {
+      "id": "d_cy_lamp",
+      "post_id": "p_floorlamp",
+      "from_user_id": "u_chengyou",
+      "to_user_id": "u_carlos",
+      "amount": 15,
+      "message": "Is the lamp still up?",
+      "status": "pending",
+      "created_at": "2026-11-17T17:47:02.309Z"
+    },
+    {
+      "id": "d_carlos_move",
+      "post_id": "p_moving",
+      "from_user_id": "u_carlos",
+      "to_user_id": "u_carter",
+      "amount": 40,
+      "message": "Need the couch moved Saturday.",
+      "status": "accepted",
+      "created_at": "2026-11-15T21:47:02.309Z"
+    },
+    {
+      "id": "d_13e22314",
+      "post_id": "p_fades",
+      "from_user_id": "u_carlos",
+      "to_user_id": "u_carter",
+      "amount": 6.7,
+      "message": "can I actually not get a fade",
+      "status": "pending",
+      "created_at": "2026-11-18T00:49:02.555Z"
+    },
+    {
+      "id": "d_2acb4093",
+      "post_id": "p_suit",
+      "from_user_id": "u_chengyou",
+      "to_user_id": "u_carter",
+      "amount": 12,
+      "message": "Can you steam a red suit?",
+      "status": "pending",
+      "created_at": "2026-11-18T00:53:52.426Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "m1",
+      "deal_id": "d_carter_heads",
+      "from_user_id": "u_carter",
+      "body": "Hey, could you shoot a few headshots before Friday?",
+      "created_at": "2026-11-17T20:47:02.309Z"
+    },
+    {
+      "id": "m2",
+      "deal_id": "d_carter_heads",
+      "from_user_id": "u_chengyou",
+      "body": "Yes. Cross Campus or your common room?",
+      "created_at": "2026-11-17T21:47:02.309Z"
+    },
+    {
+      "id": "m3",
+      "deal_id": "d_carter_heads",
+      "from_user_id": "u_carter",
+      "body": "Cross Campus Thursday after 4. I can do the $40.",
+      "created_at": "2026-11-17T23:47:02.309Z"
+    },
+    {
+      "id": "m4",
+      "deal_id": "d_carlos_fridge",
+      "from_user_id": "u_carlos",
+      "body": "Is the fridge still available?",
+      "created_at": "2026-11-17T19:47:02.309Z"
+    },
+    {
+      "id": "m5",
+      "deal_id": "d_carlos_fridge",
+      "from_user_id": "u_carlos",
+      "body": "I can pick it up Saturday and Venmo $45.",
+      "created_at": "2026-11-17T22:47:02.309Z"
+    },
+    {
+      "id": "m6",
+      "deal_id": "d_carter_fridge",
+      "from_user_id": "u_carter",
+      "body": "Would you take $40 if I grab it from Franklin tonight?",
+      "created_at": "2026-11-16T23:47:02.309Z"
+    },
+    {
+      "id": "m7",
+      "deal_id": "d_cy_fade",
+      "from_user_id": "u_chengyou",
+      "body": "Can you do a fade Sunday?",
+      "created_at": "2026-11-17T18:47:02.309Z"
+    },
+    {
+      "id": "m8",
+      "deal_id": "d_cy_fade",
+      "from_user_id": "u_carter",
+      "body": "Sunday at 4 in Branford works. Bring a photo of the length you want.",
+      "created_at": "2026-11-17T22:47:02.309Z"
+    },
+    {
+      "id": "m9",
+      "deal_id": "d_cy_lamp",
+      "from_user_id": "u_chengyou",
+      "body": "Is the floor lamp still up for $15?",
+      "created_at": "2026-11-17T19:47:02.309Z"
+    },
+    {
+      "id": "m10",
+      "deal_id": "d_cy_lamp",
+      "from_user_id": "u_carlos",
+      "body": "Yes. It is in Ezra Stiles, ground floor. The shade comes off if you are carrying it.",
+      "created_at": "2026-11-17T23:17:02.309Z"
+    },
+    {
+      "id": "m11",
+      "deal_id": "d_carlos_move",
+      "from_user_id": "u_carlos",
+      "body": "Need help moving a couch Saturday. It is a two-person job.",
+      "created_at": "2026-11-15T20:47:02.309Z"
+    },
+    {
+      "id": "m12",
+      "deal_id": "d_carlos_move",
+      "from_user_id": "u_carter",
+      "body": "I can do two hours. Once you confirm, I will hold Saturday afternoon.",
+      "created_at": "2026-11-15T22:47:02.309Z"
+    },
+    {
+      "id": "m13",
+      "deal_id": "d_carlos_move",
+      "from_user_id": "u_carlos",
+      "body": "Confirmed. I will meet you at the Ezra Stiles gate.",
+      "created_at": "2026-11-16T18:47:02.309Z"
+    },
+    {
+      "id": "m_bd557a7d",
+      "deal_id": "d_13e22314",
+      "from_user_id": "u_carter",
+      "body": "hell nah",
+      "created_at": "2026-11-18T00:49:30.620Z"
+    },
+    {
+      "id": "m_92f80bf3",
+      "deal_id": "d_2acb4093",
+      "from_user_id": "u_carter",
+      "body": "hmm idk what that is",
+      "created_at": "2026-11-18T00:54:12.412Z"
+    }
+  ]
+}
