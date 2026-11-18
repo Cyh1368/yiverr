@@ -1,22 +1,16 @@
 # Yiverr
 
 **Video**
-https://drive.google.com/file/d/1sGXpNallxQmbdUXS5Lq_32gwL5e-VVkB/view?usp=sharing
 
-**Grok Usage**
-https://drive.google.com/file/d/17BiKU00RS4_XuSfIeWM9HZRcv0mqOf_q/view?usp=sharing
+[yiverr-pitch.mov](photos/yiverr-pitch.mov)
+
+**Grok usage**
+
+![Grok usage](photos/grokusage.png)
 
 A marketplace for Yale students. People post services, requests, and things from their rooms. Someone else books, buys, or says they can do it. When a deal is accepted, both sides see each other's Yale email and a Venmo link.
 
 Seeded listings use photos from Unsplash. New uploads are saved in `public/uploads`.
-
-## Demo
-
-[yiverr-pitch.mov](photos/yiverr-pitch.mov)
-
-## Grok usage
-
-![Grok usage](photos/grokusage.png)
 
 ## Run
 
